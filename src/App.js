@@ -12,7 +12,7 @@ function App() {
         <Header/>
         <Search/>
         <Category/>
-          <Pages/>
+        <Pages/>
       </BrowserRouter>
     </div>
   );
